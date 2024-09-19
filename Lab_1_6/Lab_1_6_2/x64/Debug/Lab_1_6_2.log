@@ -1,0 +1,4 @@
+﻿  Source2.cpp
+C:\Users\adapt\OneDrive\Рабочий стол\Labs\Lab_1_6\Lab_1_6_2\Source2.cpp(24,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\adapt\OneDrive\Рабочий стол\Labs\Lab_1_6\Lab_1_6_2\Source2.cpp(25,8): warning C4244: '=': conversion from 'unsigned short' to 'char', possible loss of data
+  Lab_1_6_2.vcxproj -> C:\Users\adapt\OneDrive\Рабочий стол\Labs\Lab_1_6\x64\Debug\Lab_1_6_2.exe
