@@ -1,3 +1,4 @@
+#include <iostream>
 
 int main()
 {
@@ -10,4 +11,5 @@ int main()
 	char chVar3;
 	chVar3 = 0x56;//h
 	char chVar4 = 0xb6;//+
+ return 0;
 }
